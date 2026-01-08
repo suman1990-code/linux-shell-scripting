@@ -1,9 +1,9 @@
 #!/bin/bash
 
-NUMBER=10
+NUMBER=100
 
-if [ $NUMBER -gt 5 ]; then
-  echo "Number is greater than 5"
+if [ $NUMBER -gt 70 ]; then
+  echo "Number is greater than 70"
 else
-  echo "Number is 5 or less"
+  echo "Number is 70 or less"
 fi
